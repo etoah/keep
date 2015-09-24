@@ -1,0 +1,24 @@
+{
+  "name": "keep",
+  "version": "0.0.1",
+  "description": "keep state solution of http",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etoah/keep.git"
+  },
+  "keywords": [
+    "keep",
+    "state",
+    "http"
+  ],
+  "author": "etoah (Lucien)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etoah/keep/issues"
+  },
+  "homepage": "https://github.com/etoah/keep"
+}
